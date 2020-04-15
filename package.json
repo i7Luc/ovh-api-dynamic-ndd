@@ -1,0 +1,12 @@
+{
+    "name": "ovh-dynamic-ndd-api",
+    "version": "1.0.0",
+    "main": "update-publicIP.js",
+    "repository": "https://github.com/BadySmith/ovh-dynamic-ndd-api.git",
+    "author": "ID010018 <id48567456784@protonmail.ch>",
+    "license": "MIT",
+    "dependencies": {
+      "node-fetch": "2.3.0",
+      "ovh": "^2.0.2"
+    }
+  }
