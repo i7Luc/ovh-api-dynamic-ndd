@@ -3,7 +3,7 @@ curl ```$ curl 'https://api.ipify.org?format=json'```
 
 get/post ``` https://api.ovh.com/console/#/domain ```
 
-## Environement
+## Environnement
 ```
                                        +--------------------+ 
 +--------------------+                 |      WEB API       |
